@@ -1,0 +1,2 @@
+A search engine uses an inverted index to quickly locate documents that contain
+a given word without scanning every document in the collection.

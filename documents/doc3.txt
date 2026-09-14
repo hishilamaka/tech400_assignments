@@ -1,0 +1,2 @@
+Boolean retrieval models allow users to combine query terms using the operators
+AND, OR, and NOT to precisely control which documents are returned.

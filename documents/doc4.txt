@@ -1,0 +1,2 @@
+Machine learning techniques are increasingly used to rank search results
+by relevance instead of relying only on exact keyword matching.

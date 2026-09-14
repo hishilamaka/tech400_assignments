@@ -1,0 +1,2 @@
+Web crawlers automatically visit and download pages from the internet so that
+a search engine can index their content for later retrieval.

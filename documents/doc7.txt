@@ -1,0 +1,2 @@
+A dictionary in information retrieval stores every unique term found across the
+document collection along with a pointer to its postings list.

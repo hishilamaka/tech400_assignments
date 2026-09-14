@@ -1,0 +1,2 @@
+Tokenization splits raw text into individual words or tokens, which is usually
+the first step before building a dictionary for an information retrieval system.
