@@ -1,0 +1,1271 @@
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+Annual Review of Sociology
+
+Climate Change and Society
+Thomas Dietz,1,∗ Rachael L. Shwom,2,∗
+and Cameron T. Whitley3,∗
+1
+Sociology and Environmental Science and Policy Program, Michigan State University, East
+Lansing, Michigan 48824, USA; email: tdietz@msu.edu
+2
+Human Ecology and Rutgers Energy Institute, Rutgers University, New Brunswick, New
+Jersey 08901, USA; email: shwomrac@sebs.rutgers.edu
+3
+Department of Sociology, Western Washington University, Bellingham, Washington 98225,
+USA; email: cameron.whitley@wwu.edu
+
+Annu. Rev. Sociol. 2020. 46:135–58
+
+Keywords
+
+First published as a Review in Advance on
+March 9, 2020
+
+climate change, environmental sociology, human ecology, climate justice,
+global environmental change
+
+The Annual Review of Sociology is online at
+soc.annualreviews.org
+https://doi.org/10.1146/annurev-soc-121919054614
+Copyright © 2020 by Annual Reviews.
+All rights reserved
+∗
+
+These authors contributed equally to this article
+
+Abstract
+Climate change is one of the greatest ecological and social challenges of
+the twenty-first century. Sociologists have made important contributions to
+our knowledge of the human drivers of contemporary climate change, including better understanding of the effects of social structure and political
+economy on national greenhouse gas emissions, the interplay of power and
+politics in the corporate sector and in policy systems, and the factors that influence individual actions by citizens and consumers. Sociology is also poised
+to make important contributions to the study of climate justice across multiple lines of stratification, including race, class, gender, indigenous identity,
+sexuality and queerness, and disability, and to articulate the effects of climate change on our relationship to nonhuman species. To realize its potential to contribute to the societal discourse on climate change, sociology must
+become theoretically integrated, engage with other disciplines, and remain
+concerned with issues related to environmental and climate inequalities.
+
+135
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+INTRODUCTION: CLIMATE AND SOCIETY INTERACTING
+Climate change:
+long-term change in
+weather, including
+temperature,
+precipitation, and
+storm events, often as
+a 30-year average
+Greenhouse gas
+(GHG) emissions:
+production of gases
+such as carbon dioxide
+(CO2 ), methane,
+nitrous oxides, and
+chlorofluorocarbons
+that contribute to
+climate change
+
+136
+
+In 2018, the US National Climate Assessment concluded that the “earth’s climate is now changing
+faster than at any point in the history of modern civilization, primarily as a result of human activities” ( Jay et al. 2018, p. 34). Koch et al. (2019) suggest that the so-called Little Ice Age (LIA) of
+the sixteenth to nineteenth centuries may have been driven in part by the Great Killing of the sixteenth century, when Europeans, through direct violence and disease, caused the deaths of much
+of the indigenous human population in the Americas. The resulting reduction in human activity
+led to vegetation changes that removed substantial carbon dioxide (CO2 ) from the atmosphere and
+thus contributed to a cooling and highly variable climate. In turn, the LIA had a strong influence
+on social change around the globe (Parker 2013). Of course, the LIA had multiple causes, and the
+contribution to it by the European incursion into North America will continue to be analyzed.
+But as this tragic history demonstrates, climate change has complex causes and consequences that
+are clearly issues worthy of sociological investigation. Here, we review sociological research on
+the drivers of climate change and the implications of climate change for social justice. We conclude with observations about how sociology can most effectively engage the subject. Even with
+this reduced scope, we can cite only a few highlights from the literatures we engage, but we recognize the vast conversation behind each citation. In particular, space limits prevent any detailed
+tracing of the intellectual history of many of the topics. Thus, our goal is to provide readers with
+an overview and entry points to current and ever-evolving work.
+By the end of the nineteenth century, it was clear that shifts in atmospheric concentrations
+of greenhouse gases (GHGs) could change planetary climates (Weart 2008). Since the industrial
+revolution, especially starting in the mid-twentieth century, human actions have increased the
+atmospheric concentration of GHGs: CO2 , methane, nitrous oxides, and chlorofluorocarbons,
+while also decreasing the albedo, or reflectivity, of Earth’s surface (US Glob. Change Res. Program 2017). Climate refers to long-term patterns of weather, including temperature, precipitation,
+and storm events. Contemporary climate change involves both shifts in long-term averages and
+increased variation around them, with extreme events becoming more common (US Natl. Res.
+Counc. 2016). While Earth’s climate has always been dynamic, current changes are so substantial
+and rapid that they could overwhelm adaptive capacity and might drive the climate and biosphere
+into massively disruptive patterns.
+By 2017, Earth’s average temperature had increased by 1°C above preindustrial levels as a
+result of GHG emissions and changes in albedo (IPCC 2018, p. 51). It will be difficult to limit
+total warming to less than 2°C, and extremely difficult to reach the goal of 1.5°C, regarded as
+an upper bound to avoid great risk of harm to the economy, human health and well-being, and
+Earth’s ecosystems. As the Intergovernmental Panel on Climate Change (IPCC 2018, p. 15) puts
+it: “Pathways limiting global warming to 1.5°C with no or limited overshoot would require rapid
+and far-reaching transitions in energy, land, urban and infrastructure (including transport and
+buildings), and industrial systems (high confidence). These systems transitions are unprecedented
+in terms of scale, but not necessarily in terms of speed.”
+The change in average temperature is accompanied by ocean acidification, sea-level rise, and
+shifts in many aspects of climate in addition to temperature. These processes interact with other
+global environmental changes (GECs), including biodiversity loss, modification of biogeochemical
+cycles, and the widespread dispersal of chemicals and materials that adversely impact ecosystems
+and disrupt services on which humans depend (Steffen et al. 2018). Because these changes are
+so massive that they likely will be detectable in the geological record millions of years in the
+future, proposals have been made to label the current geological epoch the Anthropocene (Steffen
+et al. 2018). GECs and our efforts to respond to them will likely have transformational effects on
+humans and societies at every level from the local to the global (IPBES 2019).
+Dietz • Shwom • Whitley
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+As the link between European settler colonialism and climate change indicates, understanding
+climate change requires conceptualizations of the interactions between human actions and social
+structure on the one hand and ecosystem dynamics on the other. For this reason, a sociology of
+climate change is inherently interdisciplinary (Rosa & Dietz 1998). Approaches to conceptualizing
+coupled human and natural systems are not theories per se but are frameworks that remind us of
+the need to consider linkages and the potential for action at a distance (i.e., telecoupling) (Burch
+et al. 2017, Dietz 2017, Friis & Nielsen 2019, Liu et al. 2018, Ostrom 2010). Research on climate
+change calls for sociologists to reinvent human ecology to take seriously both human influences
+on the biophysical environment and, in turn, its influence on humans. For example, the idea of
+the Anthropocene calls for rethinking the nature/society binary, exploring power dynamics and
+inequalities, and deploying concepts of risk (Bowden 2017, Lidskog & Waterton 2016, Zinn 2016).
+The emerging approach also requires engaging cultural change as a central concept, while allowing
+for the interplay of structure and agency (McLaughlin 2011).
+Early discussions of climate and society (e.g., by Montesquieu, Fourier, Herder, and Huntington) posited a deterministic and static link between climate and various aspects of culture,
+personality, and social structure. These accounts were antithetical to sociology’s exploration of
+social change (Rosa & Dietz 1998). Of course, macro-historical analyses have sometimes examined climate change as an influence on the emergence of capitalism and the modern structure of
+the global political economy (Chase-Dunn 1998, Le Roy Ladurie 1971). This line of historical
+scholarship has continued, aided in part by increasingly sophisticated understandings of historical
+climate (White et al. 2018). A sociology of energy anticipated contemporary research on climate
+change (Rosa et al. 1988), but the first sustained engagement of sociology explicitly with climate
+change in the 1990s focused on the construction of climate change as a social problem (Rosa &
+Dietz 1998).
+In this review, we focus on human drivers of climate change and on environmental justice issues
+related to climate change, that is, climate justice. Understanding why individuals, organizations,
+and nations take actions that influence the climate is in some sense prior to all other issues related
+to climate change, hence our emphasis on drivers. Because sociology has always been concerned
+with issues of inequality and power differentials, and because the twenty-first century could be a
+time of increased inequality, we believe that analyzing climate change through an environmental
+justice lens is critically important to the profession. Research on climate change adaptation and
+vulnerability is advanced and emphasizes differential vulnerability (Klinenberg et al. 2020), but
+it cannot be readily separated from the overall sociology of natural hazards and so lies beyond
+the scope of this review (Thomas et al. 2019, Tierney 2019). We begin by examining the macro-,
+meso-, and micro-scale approaches to understanding the drivers of climate change, then turn to
+climate justice. We conclude with a discussion of what sociology can contribute to the overall
+discourse on climate change and society.
+
+Climate justice:
+concern with the
+unequal distribution of
+climate benefits, risks,
+and responsibility for
+causing climate change
+Climate change
+adaptation: action
+to reduce the
+vulnerability of social
+systems and
+ecosystems to climate
+change
+Climate change
+drivers: processes at
+all scales (micro, meso,
+and macro) that
+contribute to climate
+change
+Macro-scale: refers to
+large-scale processes,
+including the political
+economy and cultural
+change, that affect
+entire communities,
+states, or countries
+Meso-scale: refers to
+interactions of groups,
+organizations, and
+institutions that link
+the macro-scale and
+the micro-scale
+Micro-scale: refers to
+individual interactions
+and decisions and their
+dynamics
+
+MACRO-SCALE ANALYSIS
+Macro-scale sociological approaches to addressing climate change drivers focus on large-scale processes that affect entire communities, states, or countries. Quantitative macro-scale comparative
+analyses of the drivers of GHG emissions represent a very active research area. A methodological approach, called STIRPAT (Stochastic Impacts by Regression on Population, Affluence and
+Technology), was first developed in sociology and is now used across disciplines. STIRPAT models
+environmental stress via a multiplicative regression model:
+I = aP b Ac . . . e,
+www.annualreviews.org • Climate Change and Society
+
+137
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+Climate change
+mitigation: action to
+limit the magnitude of
+climate change, often
+by trying to limit
+GHG emissions
+
+138
+
+where I is a measure of stress, such as GHG emissions; P is usually population size; A is a measure of per capita affluence; e is a stochastic error term; and the coefficients b, c, and so forth
+are elasticities linking drivers to anthropogenic environmental stress (Dietz 2017, York et al.
+2003). Data from geopolitical units such as nation-states, US states, or Chinese provinces are
+used to estimate the model. The key points of the approach are that the effects of drivers on
+environmental stress need to be estimated, not assumed, and that the basic model needs to be
+expanded to test other drivers suggested by theory. The approach has been particularly useful
+in exploring the political economy of environmental stress and in examining the effects of inequality, dependency, and a variety of other theoretically driven formulations ( Jorgenson et al.
+2019).
+Perhaps the most extensive use of the STIRPAT model has been to compare various neoMarxist theories with theories of reform ( Jorgenson et al. 2019). Theories of the treadmill of production, the treadmill of destruction (militarism), ecologically unequal exchange, world systems
+theory, and the metabolic rift all posit that the need for economic growth and profit under capitalism requires exploitation of the environment in ways that promote GHG emissions ( Jorgenson
+et al. 2019, Rudel et al. 2011). In contrast, ecological modernization theory and environmental
+Kuznets curve theory suggest that at first, stress on the environment, including GHG emissions,
+increases with economic growth but that after a moderate level of affluence is reached, environmental stress levels off and even declines as a result of shifting preferences, technological change,
+and policy reform. Certainly, some companies and industries may reduce emissions, a point we
+return to below (Mol et al. 2013, Vandenbergh & Gilligan 2017), but the balance of evidence suggests that for GHG emissions the overall pattern is that increasing affluence leads to increased
+emissions ( Jorgenson et al. 2019).
+A recent offshoot of STIRPAT, labeled Ecological Intensity of Well-Being (EIWB), is based
+on the idea that sustainability requires balancing improved human well-being with reduced stress
+on the environment (Dietz et al. 2009). One operationalization of this approach, the carbon intensity of well-being (CIWB), examines carbon emission per unit of well-being and thus addresses
+CO2 , the principal driver of climate change ( Jorgenson 2014). The approach is inspired by a
+pioneering analysis by Mazur & Rosa (1974) that demonstrated a decoupling of energy consumption and human well-being, contradicting a taken-for-granted assumption that increases in energy
+consumption are necessary for improvements in well-being. The EIWB literature tests theoretically driven hypotheses about what shapes the relationship between environmental stress and
+human well-being, a political economy of sustainability. A recent review of CIWB finds that
+“the effect of GDP per capita on CIWB is relatively large, positive, and stable in magnitude
+through time for nations in North America, Europe, and Oceania, and has increased in magnitude
+through time for nations in the other regional samples” ( Jorgenson et al. 2019, pp. 3–4). Both the
+STIRPAT and EIWB literatures are moving toward disaggregation by both time period and
+groups of countries, allowing for examination of contextual effects ( Jorgenson & Clark 2012,
+Thombs 2018).
+Sociologists also have begun to engage with an emerging approach to climate change mitigation—geoengineering. The most controversial approach to geoengineering, solar radiation
+management (SRM), injects particles into the upper atmosphere to reflect back sunlight before it
+reaches Earth (US Natl. Res. Counc. 2015). SRM seems to be technically feasible at a scale that
+would allow even a moderate-size nation or large corporation to implement it. Concerns about
+equity and justice, public acceptability, risks to social systems, and international governance arise
+in nearly every discussion of geoengineering and especially SRM (Payne et al. 2015, Sikina &
+Nicholson 2019).
+
+Dietz • Shwom • Whitley
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+MESO-SCALE PERSPECTIVES
+Sociological research on drivers at the meso-scale—interactions among groups, organizations, and
+institutions as they influence climate change—is emergent. Meso-scale processes link the macro
+and the micro. It is here that industry, climate movement and countermovement organizations,
+and local, regional, national, and international governing bodies and other organizations interact.
+It is the domain of politics and the market, and the fluid boundary between the two. The mesoscale emphasizes the relationship between structure and agency and their evolving dynamics.
+Meso-scale dynamics are evident from the local to the global level, and these levels often interact. At the national level, interest groups engage in policy networks, often crossing scales in
+polycentric governance systems (Fisher & Leifeld 2019, Frank 2011, Henry & Vollan 2014). Some
+meso-dynamics are global, for example, when national governments, nongovernmental organizations (NGOs), and corporate interests attempt to shape international negotiations (Canan et al.
+2015, Fisher 2004). Research on meso-scale drivers of climate change presents special challenges,
+since it must integrate diverse sets of subfields of sociology, including economic, organizational,
+political, and environmental sociology, and link to other disciplines, including business, international relations, law, political science, and public administration.
+We review the two best-developed strands of meso-scale literature: (a) analyses of corporate
+behavior and its impacts on climate and society and (b) analyses of climate change politics within
+and across sectors of society. Corporate behavior matters because corporations exercise great influence on climate change policy and their actions directly influence GHG emissions and changes
+in land use. And, of course, conflicting interests exercise power at the meso-scale to try to influence
+climate and energy policy, which, in turn, influences drivers of climate change at the micro- and
+macro-scales. Attending to these meso-scale processes where power is exercised can help explain
+unjust climate outcomes.
+Research on corporations examines how they make sense of and respond to climate change and
+the impact of those responses. Pulver (2011) identifies three types of corporate responses: business
+practices, political action, and corporate governance. An analysis of how corporations interpret climate change as a problem has found that an oil company’s science and policy networks influenced
+its interpretation of profitable climate action (Pulver 2007). In the United States, industry has
+acted politically, disseminating climate doubt through conservative movement organizations and
+think tanks and in lobbying (Brulle 2018; McCright & Dunlap 2000, 2003). Cross-country comparative studies of the automobile and oil industries find that climate denial has been particularly
+pronounced in US-headquartered companies compared with their European counterparts, suggesting that industry’s strategic responses are shaped by national political and cultural contexts
+(Levy & Kolk 2002, Levy & Rothenberg 2002).
+While many corporations have taken political action to block climate policy, others have begun
+to address climate change in their business practices and governance (Gilligan & Vandenbergh
+2020, Vandenbergh & Gilligan 2017). For example, more than 70% of the largest corporations
+in the United States participate in the Carbon Disclosure Project, which calls for corporations to
+publicly report their GHG emissions (Vandenbergh & Gilligan 2017). Wright & Nyberg (2017)
+provide insights into how the “grand challenge” of climate change is subsumed under business
+as usual and results in nonradical changes in practices. Negotiations between environmental and
+economic concerns in emerging green industries such as wind energy involve negotiating the
+support of the environmental movement and government policies while also adopting corporate
+business logics (Sine & Lee 2009, York et al. 2016).
+Pulver’s (2011) third type of corporate action, corporate governance, has been less extensively
+studied by sociologists. This approach documents how various corporate characteristics drive
+
+www.annualreviews.org • Climate Change and Society
+
+139
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+responses that affect GHG emissions directly. For example, power plants emit approximately
+25% of anthropogenic GHGs globally (Grant et al. 2020). There is huge variation in power
+plant emissions (emissions per kilowatt-hour generated) within and between nations (Galli
+Robertson & Collins 2019). Grant et al. (2020) assess how organizational, political, and economic
+factors lead to variation across plants. Other research, emerging mainly from business and public
+policy evaluations, has focused on the impacts of voluntary programs by corporations to reduce
+emissions (Gilligan & Vandenbergh 2020, Vandenbergh & Gilligan 2017). The questions of
+corporate behavior and its impacts on GHG emissions speak to a central tension in sociological
+analysis: whether reforms can bring about meaningful change or whether full transformation of
+the system is required. We return to this issue in the Final Thoughts section, below.
+The second major theme in meso-scale research extends the focus from corporate behavior
+to climate change politics and policy networks. These policy networks include consultants; environmental and antienvironmental NGOs and social movements; federal, state, and local agencies;
+foundations; international institutions; public relations firms; unions as well as corporations; and
+state and national legislatures. At the global level, international relations scholars have examined
+climate change agreements extensively. A key sociological contribution is to examine how international negotiations engage with issues of climate justice and are influenced by the struggles
+of NGOs and social movements (Ciplet et al. 2015, Fisher & Robertson 2015). Nations differ
+immensely in their historical contribution to climate change, their current and projected future
+impacts on climate, the ease with which they can reduce their impact on climate, and their vulnerability to the projected impacts of climate change (Fisher 2004). All of these factors make it
+difficult to reach agreements, but there have been some successes, particularly with ozone depletion (Canan et al. 2015).
+Comparisons across policy systems, both within and between nations, are an especially fruitful
+way of examining climate change politics. Sociologists studying climate governance have examined what “organizations exert influence on policymaking, what beliefs they carry, what kind of
+coalitions these organizations form to push for their agenda, how they are connected to state organizations and how their opponents are organized” and the related climate outcomes (Ylä-Anttila
+et al. 2018, p. 259). In particular, the COMPON (Comparing Climate Change Policy Networks)
+project has been organizing an ongoing comparative study of climate policy spanning 20 countries
+over more than a decade (see http://www.compon.org).
+Some governments may constitute a “petrostate,” with interests strongly aligned with those
+of the fossil fuel industry (Davidson & Gismondi 2011, Haluza-Delay 2012). In other situations,
+the state is conceptualized as a neutral mediator or even an ally in climate action. Research on
+national transitions to renewable energy tends to view the state as an institution that provides the
+regulatory rules for energy markets or for policy entrepreneurs trying to balance interests and
+examines the role of deliberative processes in planning and decision making (Geels 2004, Jordan
+& Huitema 2014, Schroeter et al. 2016, Schweizer et al. 2016).
+Researchers have interrogated how organizational and movement political tactics influence
+public, corporate, and governmental behavior on energy and climate change (Hess 2019, McAdam
+2017). World society scholars have shown that increased national participation in environmental
+intergovernmental organizations, environmental international NGOs, and environmental treaty
+ratifications has a negative effect on CO2 emissions (Schofer & Hironaka 2005). Several studies have examined the influence of movement and antimovement tactics, including media campaigns, on public opinion and policy networks (Brulle et al. 2012, Schifeling & Hoffman 2017).
+McCright & Dunlap (2003) documented the corporate-funded rise from 1990 to 1997 both in
+the number of climate change skeptics testifying before Congress and in the discourse of denial in
+conservative think tanks (McCright & Dunlap 2000). Using network analysis, Farrell (2016) found
+140
+
+Dietz • Shwom • Whitley
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+that corporate funding increased the content and dissemination of polarizing climate change texts
+(press releases, published papers, website articles, scholarly research, policy studies, and conference proceedings). Sociologists have also begun to document the influence of foundations (Brulle
+2014, Nisbet 2018, Spires 2011), state-level politics (Dietz et al. 2015), and public relations firms
+(Greenberg et al. 2011).
+Multiple levels of politics intersect when local energy facilities must be sited—a key element
+of decarbonizing the energy system to address climate change. Sociological concern with facilities
+siting began with analyses of resistance to nuclear power (Freudenburg & Rosa 1984) and has
+expanded to more general theories of resistance (McAdam & Boudet 2012). Current research
+includes analyses of resistance to fossil fuel and renewable energy development including fracking
+(Mazur 2016), pipelines (LeQuesne 2019), and wind farms (Boudet 2019, Dwyer & Bidwell 2019,
+Woods 2003). One theme across the siting literature is that public trust is key to project acceptance
+and can be built through fair and competent processes that link scientific assessment of risk to
+public deliberation (Bidwell 2016, Firestone et al. 2020).
+
+MICRO-SCALE PERSPECTIVES
+Micro-scale approaches in sociology focus on small-scale individual interactions, decisions, and
+dynamics. As consumers, we make choices on a daily basis that influence GHG emissions and
+other ecosystems processes both directly (e.g., burning gasoline while driving) and indirectly via
+the supply chain (e.g., dietary choices). As citizens, we express views and take political actions
+that influence policy. Some of us become activists, and some are professionally involved in policy systems. Citizens often mobilize to oppose developments, including both those that increase
+emissions, such as pipelines, and those that reduce them, such as wind farms. Many of us manage small plots of land (lawns), some of us manage substantial plots as farmers or foresters, and
+a growing number of us produce energy via residential photovoltaics and other renewable resources. We influence organizations where we are employed or of which we are members, and the
+actions of those organizations have consequences for climate change. While our actions are the
+result of agency, what we do also depends on how we interpret situations and the overall social
+context, and those interpretations are shaped by roles, institutions, and social networks (Bruch &
+Feinberg 2017, Frank 2011, Henry & Vollan 2014, Menchik 2017). Contexts, including households, communities, larger social structures, political economies, and the biophysical environment
+impose opportunities for and constraints on action. And even in the same context, race, ethnicity,
+gender identity, social class, and other social markers influence what is easy, difficult, or impossible. While we strive for an integrated understanding of this complexity, at present the sociological
+literature comprises two streams, one focused on consumer behavior and the other on beliefs and
+attitudes that are precursors to both consumer and political action.
+Early perspectives on consumption (e.g., by Veblen, Adorno, and Horkheimer) emphasized
+political and economic influences but ignored consumers’ agency (Schor 2007). In contrast, Schor
+(2008) identifies contexts where people could “downshift” by reducing work hours and break the
+work–spend cycle to both reduce environmental impact and increase quality of life (Fitzgerald
+et al. 2018). Of course, some actions also arise from habits and routines that are not the result
+of current decisions and agency (Kennedy et al. 2015). For example, consumption may be driven
+by social practices, routine bundles of activities that include high-GHG-impact practices such as
+eating and driving (Shove 2007, p. 71).
+Three challenges emerge in looking at individual decisions and behaviors. First, it is crucial
+to focus on decisions and actions that have substantial consequences for GHG emissions both
+directly and through the supply chain (Stern & Dietz 2020, Stern & Wolske 2017). Simple and
+www.annualreviews.org • Climate Change and Society
+
+141
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+cost-effective changes in individual and household direct energy consumption could reduce US
+GHG emissions by more than 7%, roughly equivalent to the total emissions of France (Dietz
+et al. 2009). But there are substantial differences in impact across household actions; for example, weatherization or fuel-efficient driving habits have 20 times or more the impact of installing
+low-flow showerheads or changing laundry temperatures. Second, what matters in shaping decisions will vary across circumstances (Adua & Clark 2019, Wolske & Stern 2018). The factors
+that influence a decision to install residential solar photovoltaics may not be the same factors
+that influence voting. What matters in the United States may be quite different from what matters in China or France or Nigeria. The constraints and opportunities faced by a low-income
+urban renter are different from those faced by an affluent suburban homeowner. The challenge
+is to build a cumulative understanding while being attentive to context and eventually have theory robust enough to explain exactly how contextual effects work. Third, while it is useful to
+differentiate decisions made in various roles and identities, roles and identities are fluid, socially
+constructed, and contested—a purchase made by one individual as simply a consumer choice may
+be viewed by another as a political action. Ultimately, an integrated theory will examine not only
+how we make decisions within roles and identities but also how we make decisions across roles and
+identities.
+Values–beliefs–norms theory is perhaps the most common approach to environmental decision making. It posits a causal chain extending from values to beliefs about climate change and
+the environment and about the efficacy of one’s actions, and from them to norms and finally to
+decisions (Poortinga et al. 2019, Steg 2016). Values influence a wide range of proenvironmental
+decisions, not only in the role of consumer but in other roles as well, including support for social
+movements (Dietz 2015, Steg 2016, Stern et al. 1999). Among values, altruism appears to have the
+strongest effect on environmental decision making. For most people, altruism directed toward
+other humans and altruism directed toward other species and the biosphere are positively correlated but distinct, and both have strong effects on climate decisions. The importance of altruism
+makes theoretical sense, given the commons and collective action problems inherent in climate
+change (Dietz & Whitley 2018a, Dietz et al. 2003, Ostrom 2010). Among values, self-interest,
+traditionalism, openness to change, and hedonism are also influential. But since values are at the
+far end of the causal chain from decisions, their effects are usually indirect. In contrast, norms are
+causally proximate to decisions and relatively easy to influence; thus, they have been the focus of
+many intervention efforts (Steg 2016).
+Placing beliefs as intermediary between values and actions suggests several points. First, even
+when people want to make climate-conscious consumption decisions, they often lack accurate
+information about the impacts of consumption (Attari et al. 2010). Second, risk perceptions are
+undoubtedly important beliefs in the causal chain, but links between the social psychology of altruism and risk perception are only emerging (Van der Linden 2015). Third, since beliefs are subject
+to influence by values, identity, and political ideology, biased assimilation or motivated reasoning
+can shape beliefs (Druckman & McGrath 2019). Willingness to incorporate new information into
+one’s beliefs depends on the source of the new information, the degree to which it seems consistent
+with current beliefs, and the perceived impacts on values (Druckman & McGrath 2019, Gromet
+et al. 2013).
+Identity and trust also matter. At least since Dewey, values have been viewed as a key to identity.
+Recent research shows a strong link between values and identifying as an environmentalist and
+between that identity and proenvironmental behavior (van der Werff & Steg 2016). Trust can
+be thought of as a special form of belief—a belief about how others, including institutions and
+organizations, will act. A lack of trust in institutions providing information about climate change
+or renewable energy, in organizations responsible for the safety of energy technologies, and in
+142
+
+Dietz • Shwom • Whitley
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+other people to act in the collective interest can all degrade willingness to act on climate change
+even in the face of perceived climate risk (Smith & Mayer 2018).
+Finally, there is no doubt that the threat of climate change, especially to traditional ways of life
+and landscapes, can evoke strong emotional responses that can either motivate action or induce
+anxiety and paralysis (Brulle & Norgaard 2019, Davidson 2019, Norgaard 2011). Literature on
+how emotions relate to climate change is emerging along three distinct but interconnected lines:
+(a) emotions as useful in driving individual decisions (energy consumption, policy support, etc.)
+(Feldman & Hart 2018, Jenkins et al. 2016), (b) emotions as useful in formulating movements
+(McAdam 2017), and (c) the realities of climate change causing emotional distress (anxiety, depression, etc.) (Ballew et al. 2019, Ojala 2016). A challenge for future research is to find a way to
+better integrate these theories, along with other social psychological approaches, acknowledging
+that each likely makes some contribution to an overall understanding of climate decision making.
+As noted above, growing scientific consensus on climate change and initial efforts to formulate policy have been met with antireflexivity—active campaigns to discredit scientific consensus
+(McCright & Dunlap 2010). Despite these efforts, in the United States and in other countries,
+public awareness of climate change and support for action are high (Ballew et al. 2019, Shwom
+et al. 2015). However, campaigns of climate denial have polarized beliefs in the United States, with
+conservatives far less willing than liberals to accept that (a) the climate is changing, (b) the changes
+are anthropogenic, (c) they pose serious risks, and (d) climate change mitigation policies should be
+adopted (Egan & Mullin 2017, McCright et al. 2016). There is some evidence that this ideological
+gap may be closing (Goldberg et al. 2019, Hamilton 2016). While ideology seems to be a dominant influence in Anglophone countries, its effects seem less pronounced elsewhere, an example of
+how context matters (Hornsey et al. 2018, McCright et al. 2016). Recent studies suggest that, over
+and above political ideology, racial bias is related to a lack of environmental concern, including
+concern about climate change (Benegal 2018).
+Gender identity, race/ethnicity, and their intersection have long been theorized as a strong
+influence on exposure to risk, perceptions of risk, and environmental concern. A substantial empirical literature demonstrates what has been called a “white male effect,” in which white women
+and people of color are generally more altruistic, perceive more risks from environmental problems and from technology, and are more concerned about climate change than white males (Dietz
+& Whitley 2018b). The theory of altruism invoked in models of environmental decision making
+suggests that these differences may be a result of heightened altruism among the disadvantaged,
+but several other bases for the observed differences have also been postulated (McCright & Xiao
+2014). We return to these issues again below in discussing environmental justice aspects of climate change. We also note that gender, race, and ethnicity are often related to a lack of access
+to resources, including time, money, and information, that can constrain taking action on climate
+change, even among those for whom concern is high and for whom the benefits would be substantial (Chen et al. 2017). Gender influences on proenvironmental behavior also seem to vary across
+types of behavior and roles involved (Briscoe et al. 2019).
+Education, income, age/cohort, social class, union membership, and place attachment have
+some influence on climate change perceptions and on the ability to take action, but the effects are
+moderate compared with the factors we have already discussed and are often indirect (Poortinga
+et al. 2019, Shwom et al. 2015, Vachon & Brecher 2016). A few studies have attempted to assess the
+effects of experience with weather extremes or climate change on perceptions, but the evidence
+is mixed (Marquart-Pyatt et al. 2014, Zanocco et al. 2018). The industry where one is employed,
+industries that have influence on the local economy, and recreational activities might all be seen
+as under threat from climate change or climate policies, but while we might conceptualize a production niche and recreation niche as an element of position in the social structure, this idea has
+www.annualreviews.org • Climate Change and Society
+
+143
+
+not been pursued in the literature. There is some evidence that place attachment may influence
+views and actions about climate change, although studies to date have been from a limited sample
+of the world (Nicolosi & Corbett 2018).
+
+CLIMATE JUSTICE
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+Existing research suggests that identity-based communities may have distinct attitudes toward and
+priorities about climate change. It is also clear that those who have contributed the least to GHG
+emissions have the least influence on international policy and will suffer the most from climate impacts (Harlan et al. 2015). These realities bring up ethical and moral questions about how climate
+justice should unfold, adding a normative dimension to the sociology of climate change.
+Although environmental justice was invoked as a theme on Earth Day 1970 (Environmental
+Action 1970) and the environmental justice movement emerged in the 1980s (Weiss 1989), climate
+justice did not develop as a distinct body of literature until the late 1990s and 2000s (Schlosberg
+& Collins 2014). Today, the term climate justice is used both in academic circles and in grassroots
+organizations. The concept is local and global, theoretical and atheoretical, and, fundamentally,
+intersectional. Climate justice is the concern that the causes and consequences of climate change,
+and the impacts of efforts to reduce the magnitude of climate change and adapt to it, are inequitably
+distributed. These injustices are often driven by the direct exercise of power and by power embedded in institutions and culture (Downey 2015, Mendez 2020). Monumental environmental
+disasters such as Hurricane Katrina in 2005 or the deadly extreme heat event in Chicago in 1995
+reveal how preexisting injustices like poverty, racial discrimination, segregation, a poor education
+system, substandard housing, and a lack of community preparation are exacerbated by extreme
+weather events (Bullard & Wright 2009, Klinenberg et al. 2020). Given that storm severity and
+other climate stresses are likely to increase over time, scholars argue that this foreshadows what
+is to come. Emerging research on the drivers of climate change and on mitigation efforts has increasingly recognized that economic inequality can drive behaviors that harm the environment,
+a result also noted in the macro-scale literature reviewed above, where inequality increases environmental stress and decreases sustainability. The 2019 Amazon rainforest fires serve as a prime
+example. These fires started, largely by farmers, sparked global outrage; yet this situation also
+demonstrates the complexity of environmental justice issues that emerge around climate change
+drivers and mitigation. Farm union leaders in the region downplayed the ecological damage fires
+cause and argued that fires are essential to keep small farms in business and capitalize on economic
+opportunity (Andreoni & Londono 2019). These are two of many examples that could be used to
+highlight the need to engage an intersectional lens in evaluating climate justice.
+While scholars have explored the intersection of race and class, other key dimensions of identity
+and social status have been neglected. Broadly speaking, the literature lacks an assessment of the
+perceptions, mitigation efforts, and needs of indigenous communities; queer and gender-diverse
+people; people with disabilities or those needing special accommodations, such as older adults,
+pregnant individuals, and children; and undocumented and immigrant communities (Morris et al.
+2018).
+
+Climate Change, Race, Class, and Gender
+Focusing on the distribution of resources and harm across race, gender, and class is often considered part of first-generation environmental justice research. The second generation questions
+categories and assumptions, embraces intersectionality, and supports interdisciplinary methodologies and epistemologies (Pellow 2016, Pellow & Brehm 2013). It is clear that climate change
+144
+
+Dietz • Shwom • Whitley
+
+is experienced differently across these identities, with women of color in the Global South being
+among those most affected (Norgaard 2012). At the same time, women throughout the world have
+also played a key role in climate justice discussions and actions (Glazebrook & Opoku 2018).
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+Climate Change and Indigenous Identities
+Global indigenous communities are especially vulnerable to climate change (Cordalis & Suagee
+2008, Gautam et al. 2013, Jantarasami et al. 2018). While adaptive and mitigation strategies are
+being implemented in some communities (Norton-Smith et al. 2016), the problematic practice of
+removing indigenous people from their ancestral lands continues (Maldonado et al. 2013, Vickery
+& Hunter 2016). For instance, illegal loggers and drug traffickers pressure indigenous communities, such as those in Nicaragua, to sell their forests. In many instances, communities respond
+to this pressure because of climate and food insecurity. While relocation and shifts in traditional
+lifeways may be inevitable in some circumstances, strategies to address climate change should
+be based on shared governance with indigenous communities (Maldonado et al. 2013, Norgaard
+2019).
+
+Climate Change, Sexuality, and Queer Ecology
+Much of the literature applying a queer theoretical perspective to climate change and environmental issues broadly asserts that environmental concerns have historically operated under
+a heteronormative (heteroecological) structure, negating individuals who function outside this
+paradigm (Mortimer-Sandilands & Erickson 2010, Seymour 2013). In a review of queer ecology,
+Butler (2017, p. 270) writes, “With the focus on saving the planet for ‘our’ children and grandchildren, sustainability is arguably about as ‘straight’ a political project as one can imagine.” Queer
+ecology seeks to question binary constructions of sexuality and ecology as well as the choice to
+have children (Sbicca 2012). While most research to date has been theoretical, a growing body of
+literature has begun to explore how queer people might engage climate change and environmentalism differently, particularly in the use of performance art and social activism (Whitworth 2019).
+
+Climate Change and Disability
+Climate change and sustainability goals, such as the United Nations Millennium Development
+Goals, often negate or minimally address the needs of disabled people (Brinkman 2015, Harrison
+2015, Le Roux 2015). While scholars are increasingly looking at resiliency among disabled people
+in the face of climate change (Görgens & Ziervogel 2019), when and how disabled people are
+included in climate change discourse internationally and within the discipline of sociology remain
+a topic of concern. Ray & Sibara (2017) argue that the exclusion of disability from environmentalism and from broader discussions about climate change is embedded in society’s attachment
+to environmentalism as a hyperfit, able-bodied individual endeavor. However, the reality is that
+persons with disabilities are disproportionately affected by extreme events that can be attributed
+to climate change (Morris et al. 2018). While climate change–related disaster planning often calls
+for inclusivity, access to essential services is often limited due to social stigma and economic constraints (Roth 2018). Gaskin et al. (2017) find that, among the disabled, being a woman, living
+alone, not having a partner, being nonwhite, and having a limited income contribute to increased
+vulnerability and that those with limited support and with bodily impairments are often less prepared, have a limited ability to evacuate, and have a harder time recovering from climate-induced
+disasters.
+www.annualreviews.org • Climate Change and Society
+
+145
+
+Climate-Induced Displacement and Migration
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+Black et al. (2011) argue that climate change magnifies inequalities and thus complicates migration
+decision making. In an extensive review, Hunter et al. (2015) note that migration, even in the face
+of environmental distress, is often a household strategy dependent on the identities and status
+positions of its members. Rapid disasters cause mass displacement, while ongoing climatic changes
+lead to economic migration that is intended to be temporary but often becomes permanent (Van
+Praag & Timmerman 2019). This phenomenon is playing out in the Sahel region of Africa, where
+climate-related changes have left nearly 7 million people food insecure and more than 2.5 million
+people have already been displaced (Adepoju 2019). While historical analyses of push and pull
+factors in climate migration can give insight into future migration strategies (Whitley et al. 2018a),
+analyses must also engage inequalities and intersectional identities.
+
+Climate Change and Human–Animal Relationships
+While much of the environmental and climate justice literature focuses exclusively on effects on
+humans, scholars continue to argue that sociology needs to take animals into account and engage
+with the growing literature in animal studies (Carter & Charles 2018, Fitzgerald 2018, Kalof 2017,
+Peggs 2012, York & Longo 2017). Most sociological research at the intersection of animal studies
+and climate change has focused on human contributions to the destruction of animals and their
+environments. However, a few sociologists have looked at how people who appreciate animals
+(such as bird-watchers) are instrumental in documenting the effects of climate change (Cherry
+2019); how human–animal relationships play out in disasters (Irvine 2009); how identity factors,
+inequalities, and perceptions contribute to meat consumption and its associated GHG emissions
+(Greenebaum & Dexter 2018, Winders & Ransom 2019); and how framing of the issue can influence support for policies promoting plant-based diets (Whitley et al. 2018b). Finally, the use of
+animals (e.g., the polar bear) as climate change symbols in both positive and negative ways may
+alter conservation perceptions (Whitley & Kalof 2014).
+
+LOOKING FORWARD
+Sociological research on climate change is growing rapidly and is engaging both within the discipline and outside of it, deploying a diverse set of theories and methods. Climate change will be
+one of the greatest transformational forces of the twenty-first century, and we are optimistic that
+sociology will make important contributions to our understanding of it. The challenges involved
+in a sociology of climate change will also lead to important advances for sociology itself. But these
+benefits will be realized only if the sociology of climate change addresses key issues that could
+limit its practical and scientific value.
+
+Focusing on What Matters
+Scholars working on consumption behavior have been challenged to focus their attention on the
+actions that have the greatest consequences for climate change (Stern & Wolske 2017). There is
+good evidence that household actions reducing direct energy consumption, encouraging changes
+in the supply chain of consumer products, and engaging in distributed production of renewable
+energy can help reduce climate risk. But some of those actions are far more consequential than
+others. It behooves sociologists working on consumption to focus attention on high-consequence
+actions, such as home weatherization, transportation, and food choices rather than routine
+practices that have less impact. And it is crucial to consider the supply chain of production, consumption, and waste disposal (Stern & Dietz 2020). The same logic can be applied to the study
+146
+
+Dietz • Shwom • Whitley
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+of citizen decisions. The literature has focused on climate beliefs, risk perceptions, and to some
+extent general policy support. But there has been relatively little attention to the ways in which
+these variables influence policy, or to what drives actions like voting, donating to movements,
+and otherwise engaging in political change. While the argument to focus our research efforts on
+what matters has mostly emerged in the micro-scale literature, the argument is certainly salient
+to meso- and macro-scale work as well.
+
+More Integrated Views of Decisions
+Spillovers, in which one decision either increases or decreases the probability of another, may
+substantially change the dynamics of climate action. At the micro-scale, modest initial consumer
+actions might block larger and more consequential consumer actions and political action. But it
+can also be argued that easy actions are the first steps in making commitments and developing an
+identity congruent with both consumer and political action. Evidence and theory about spillovers
+are accumulating and remain mixed, with some evidence for both positive and negative spillovers
+(Truelove et al. 2014, York 2017). At the macro-scale, a number of studies have raised concerns
+that the adoption of renewable energies and energy efficiencies does not fully displace fossil fuel
+use but rather contributes somewhat to increased energy use. As a result, emission reductions are
+less than might be expected from an analysis that considers only technology (York 2012, York &
+Bell 2019, York & McGee 2017). It is clear that a more integrated theory of decision making that
+takes account of spillovers is needed.
+
+Reform Versus Transformation
+Perhaps the central theoretical debated in macro-scale environmental sociology is between
+(a) various versions of Marxist theory that assert that a capitalist political economy requires growth
+that will be antithetical to protecting the environment and (b) alternative views, notably ecological modernization theory, that hold that capitalism can be substantially reformed to reduce
+environmental impact. The challenges of climate change offer an opportunity to reframe these
+dualisms into more subtle interrogations. At the macro- and meso-scales, it is clear that some nations and some industries, firms, and organizations are making substantial steps toward reducing
+their climate impacts while others are not, and some actively oppose climate policy (Gilligan &
+Vandenbergh 2020, Vandenbergh & Gilligan 2017). This variation provides an opportunity to interrogate what factors allow for significant changes as well as to identify the limits of those changes.
+Macro- and meso-scale theories are emerging to understand these dynamics (Downey 2015, Fisher
+& Jorgenson 2019, Shwom 2011). Similarly, at the micro-scale, further investigation of positive
+and negative spillovers both within and between consumers, citizens, and other roles would be useful both theoretically and in guiding policy. And since the bulk of the literature at the micro-scale
+is from WEIRD (Western, educated, industrialized, rich, democratic) countries, broader crossnational comparisons that include developing and emerging nations are also essential.
+
+Climate and Social Change
+Historical accounts have tried to disentangle the effects of climate change on large-scale social
+change. Of course, social change is complex and contingent. Rapid climate changes reshape how
+the environment responds to human actions and can disrupt existing social structures while creating the opportunity for the creation of new ones (McLaughlin 2011). The substantial literature
+on climate vulnerability and adaptation is beyond the scope of our discussion, but it articulates
+the short- to intermediate-term dynamics of climate-induced social change. There is a growing
+www.annualreviews.org • Climate Change and Society
+
+147
+
+body of literature attempting to examine, for example, the influence of climate change on health,
+migration, war, and large-scale violence (Burke et al. 2015, Sellers et al. 2019). At this point, sociological theory and method have not gone very far toward developing the detailed human ecology
+that considers how feedback from biophysical processes influences social change.
+
+Normative Theory
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+Climate change raises many ethical challenges, especially around the issues of justice discussed in
+the section titled Climate Justice, above. Most sociologists come to the discipline and to their substantive interests with substantial ethical commitments. At every level of decision making about
+climate change, from the individual to the global, there are complex trade-offs, including differences in consequences across social groups, geographic regions, species, and the near-term versus
+the more distant future. Sociological analyses often point out these challenges but rarely engage
+the ethical theories that might clarify them. There are many ethical theories that are salient, yet
+sociologists rarely discuss them. We would not expect a single ethical theory to dominate in sociology in the way utilitarianism dominates economic policy analyses. Some sociological discussions
+engage deliberative ethics in the tradition of Dewey and Habermas (Gunderson 2014, 2018), but,
+in general, there is surprisingly little discussion of ethical theories by climate sociologists. The
+sociological focus on power, inequality, and justice predisposes us to have useful insights into the
+implications of ethical theories in practice, and in turn, careful assessment of alternative ethical
+theories could help us hone our assessment of policies.
+
+Interdisciplinarity
+At least since the 1990s, it has been clear that a robust science of climate change must engage the
+social sciences (US Natl. Res. Counc. 1992). Recently, social scientists have become much more
+involved in the large-scale scientific assessments that synthesize the state of knowledge and often
+have influence on policy design (e.g., the Intergovernmental Panel on Climate Change, the Intergovernmental Science–Policy Platform on Biodiversity and Ecosystem Services, the Millennium
+Ecosystem Assessment, the US National Climate Assessment). Sociology has a great deal to contribute to these discussions. To participate effectively, however, sociologists will have to engage
+and value scholarship in a diverse set of other disciplines, working patiently to develop mutual
+understanding across the physical and ecological sciences and finding common ground with social scientists from other disciplines. For example, many assessments follow Moss & Schneider’s
+(2000) guidance to provide evaluations of uncertainty in scientific conclusions and projects, something not commonplace in sociology. However, we are confident that, on one hand, sociological
+insights are poised to have great influence in these discussions and, on the other, sociology will
+benefit from new insights that emerge from the interactions. These cross-disciplinary interactions
+not only will benefit environmental and climate change sociologists but also could contribute to
+sociological insights within the subfields of gender, disability studies, violence, migration, and so
+forth, given that climate change will increasingly affect people of all identities in all locations.
+Even as we engage constructively with other disciplines, it is crucial that the dialogue within
+sociology remain collaborative and integrative. Real progress in advancing understanding will require diversity in who participates in our discourse, in the topics we take up, and in the theoretical
+and methodological perspectives we bring to bear. For example, we consider the macro-, meso-,
+and micro-literatures we review above as mutually supportive rather than in opposition. To paraphrase Shakespeare (Antony and Cleopatra, Act II, Scene 2), the issue that brings us together, global
+environmental change, is great, and we will advance most rapidly by building respectfully on each
+other’s work.
+148
+
+Dietz • Shwom • Whitley
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+FINAL THOUGHTS
+The sociology of climate change is a very broad endeavor, including research that spans multiple
+subfields within sociology as well as other disciplines. Research on climate change is published in
+a diverse set of journals beyond those in sociology. The field is dynamic, with new publications
+emerging every week. So, it is inevitable that we have missed some important lines of research even
+within the limits we have set by focusing only on drivers of climate change and climate justice.
+Nonetheless, we hope that this review provides a road map of the current state of those literatures
+in a way that will facilitate further research within sociology as well as engagement with other
+disciplines. We have also tried to identify some of the opportunities and challenges sociologists
+face when they engage climate change, and we invite more sociologists to engage in this central
+issue of the twenty-first century.
+
+SUMMARY POINTS
+1. Climate change impacts, such as sea-level rise and changes in temperature and precipitation, will change life as we know it. To keep global warming to 1.5°C requires rapid
+societal transitions in energy, land, urban, and key infrastructure and industrial systems.
+2. Macro-scale research tells us that population size, affluence, and the structure of the
+political economy are important drivers of GHG emissions. The field is moving toward
+disaggregation by both time period and groups of countries to enable a deeper study of
+contextual effects on GHG emissions.
+3. At the meso-scale, corporate actions to address climate change vary from climate skepticism to active engagement to mitigate and adapt, but they are often constrained by
+institutional, political, and economic contexts and processes. Studies of how various organizations and sectors exert influence on climate change responses are an active area of
+research.
+4. At the micro-scale, researchers have found that both social structural factors (gender,
+political ideology, education) and social psychological factors (values, beliefs, norms,
+trust, identity) predict climate change public opinion and individual responses to climate
+change (voting, policy support, household behaviors).
+5. While scholars have explored the intersection of race and class in climate justice, other
+key dimensions of identity and social status have been neglected. These include the needs
+of indigenous communities; queer and gender-diverse people; people with disabilities or
+those needing special accommodations, such as older adults, pregnant individuals, and
+children; immigrant and undocumented communities; and other species.
+
+FUTURE ISSUES
+1. What macro-, meso-, and micro-scale processes have the potential to influence climate
+change and thus should be the focus of future research?
+2. How can we develop a more integrated approach to understanding how context influences decisions and how decisions shape context?
+3. What theoretical and methodological tools can help us better develop an intersectional
+view of climate justice?
+
+www.annualreviews.org • Climate Change and Society
+
+149
+
+4. What are the possibilities for reducing risk through reform and the potential for accomplishing more substantial societal transformation towards sustainability?
+5. How do climate and other global environmental changes influence social change?
+6. What normative theories should be used to understand the ethical aspects of climate
+change?
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+7. How can sociology effectively engage with other disciplines and build constructively
+around multiple perspectives and approaches within the discipline?
+
+DISCLOSURE STATEMENT
+The authors are not aware of any affiliations, memberships, funding, or financial holdings that
+might be perceived as affecting the objectivity of this review.
+
+ACKNOWLEDGMENTS
+We apologize to scholars whose work we could not review or cite because of length limits. We
+thank Andrew Jorgenson, Simone Pulver, Thomas Rudel, and Paul Stern for helpful comments
+on an earlier draft and Parker Herrera for help with background research. T.D.’s participation was
+supported in part by Michigan AgBio Research.
+
+LITERATURE CITED
+Adepoju A. 2019. Migrants and refugees in Africa. In Oxford Research Encyclopedia: Politics, ed. W Thompson,
+pp. 1–26. London: Oxford Univ. Press
+Adua L, Clark B. 2019. Even for the environment, context matters! States, households, and residential energy
+consumption. Environ. Res. Lett. 14(6):064008
+Andreoni M, Londono E. 2019. Despite world’s outrage, farmers in Amazon remain defiant. New York Times.
+Aug. 27, p. A4
+Attari SZ, DeKay ML, Davidson CI, De Bruin WB. 2010. Public perceptions of energy consumption and
+savings. PNAS 107(37):16054–59
+Ballew MT, Leiserowitz A, Roser-Renouf C, Rosenthal SA, Kotcher JE, et al. 2019. Climate change in the
+American mind: data, tools, and trends. Environ. Sci. Policy Sustain. Dev. 61(3):4–18
+Benegal SD. 2018. The spillover of race and racial attitudes into public opinion about climate change. Environ.
+Politics 27(4):733–56
+Bidwell D. 2016. Thinking through participation in renewable energy decisions. Nat. Energy 1:16051
+Black R, Arnell N, Dercon S, eds. 2011. Migration and global environmental change—review of drivers of
+migration. Glob. Environ. Change 21(Suppl. 1)
+Boudet HS. 2019. Public perceptions of and responses to new energy technologies. Nat. Energy 4(6):446–55
+Bowden G. 2017. An environmental sociology for the Anthropocene. Can. Rev. Sociol./Rev. Can. Sociol. 54(1):48–
+68
+Brinkman C. 2015. SDG 13 and its relevance to disability. Presentation for course in Critical Priorities in Disability and Development (CPDD), Programme in Disability, Climate Change, and Sustainability, Univ.
+Cape Town, S. Afr. https://tinyurl.com/whvtjb3
+Briscoe MD, Givens JE, Hazboun S, Krannich RS. 2019. At home, in public, and in between: gender differences in public, private and transportation pro-environmental behaviors in the US Intermountain West.
+Environ. Sociol. 5(4):374–92
+Bruch E, Feinberg F. 2017. Decision-making processes in social contexts. Annu. Rev. Sociol. 43:207–27
+150
+
+Dietz • Shwom • Whitley
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+Brulle RJ. 2014. Institutionalizing delay: foundation funding and the creation of US climate change countermovement organizations. Clim. Change 122(4):681–94
+Brulle RJ. 2018. The climate lobby: a sectoral analysis of lobbying spending on climate change in the USA,
+2000 to 2016. Clim. Change 149(3):289–303
+Brulle RJ, Carmichael J, Jenkins JC. 2012. Shifting public opinion on climate change: an empirical assessment
+of factors influencing concern over climate change in the US, 2002–2010. Clim. Change 114(2):169–
+88
+Brulle RJ, Norgaard KM. 2019. Avoiding cultural trauma: climate change and social inertia. Environ. Politics
+28(5):1–23
+Bullard RD, Wright B. 2009. Race, Place, and Environmental Justice After Hurricane Katrina: Struggles to Reclaim,
+Rebuild, and Revitalize New Orleans and the Gulf Coast. Boulder, CO: Westview
+Burch WR, Machlis GE, Force JE. 2017. The Structure and Dynamics of Human Ecosystems: Toward a Model for
+Understanding and Action. New Haven, CT: Yale Univ. Press
+Burke M, Hsiang SM, Miguel E. 2015. Climate and conflict. Annu. Rev. Econ. 7:577–617
+Butler C. 2017. A fruitless endeavor: confronting the heteronormativity of environmentalism. In Routledge
+Handbook of Gender and Environment, ed. S MacGregor, pp. 270–84. Abingdon, UK/New York: Routledge
+Canan P, Anderson SO, Reichman N, Gareau B. 2015. Introduction to the Special Issue on Ozone Layer
+Protection and Climate Change: the extraordinary experience of building the Montreal Protocol, lessons
+learned, and hopes for future climate change efforts. J. Environ. Stud. Sci. 5(2):111–21
+Carter B, Charles N. 2018. The animal challenge to sociology. Eur. J. Soc. Theory 21(1):79–97
+Chase-Dunn CK. 1998. Global Formation: Structures of the World-Economy. Lanham, MD: Rowman & Littlefield
+Chen C, Xu X, Day JK. 2017. Thermal comfort or money saving? Exploring intentions to conserve energy
+among low-income households in the United States. Energy Res. Soc. Sci. 26:61–71
+Cherry ER. 2019. For the Birds: Protecting Wildlife Through the Naturalist Gaze. New Brunswick, NJ: Rutgers
+Univ. Press
+Ciplet D, Roberts JT, Khan MR. 2015. Power in a Warming World: The New Global Politics of Climate Change
+and the Remaking of Environmental Inequality. Cambridge, MA: MIT Press
+Cordalis D, Suagee DB. 2008. The effects of climate change on American Indian and Alaska native tribes. Nat.
+Resour. Environ. 22(3):45–49
+Davidson DJ. 2019. Emotion, reflexivity and social change in the era of extreme fossil fuels. Br. J. Sociol.
+70(2):442–62
+Davidson DJ, Gismondi M. 2011. Challenging Legitimacy at the Precipice of Energy Calamity. Berlin: Springer
+Dietz T. 2015. Environmental values. In Oxford Handbook of Values, ed. T Brosch, D Sander, pp. 329–49.
+London: Oxford Univ. Press
+Dietz T. 2017. Drivers of human stress on the environment in the twenty-first century. Annu. Rev. Environ.
+Resour. 42:189–213
+Dietz T, Frank KA, Whitley CT, Kelly J, Kelly R. 2015. Political influences on greenhouse gas emissions from
+US states. PNAS 112(27):8254–59
+Dietz T, Ostrom E, Stern PC. 2003. The struggle to govern the commons. Science 302(5652):1907–
+12
+Dietz T, Rosa EA, York R. 2009. Environmentally efficient well-being: rethinking sustainability as the relationship between human well-being and environmental impacts. Hum. Ecol. Rev. 16(1):113–22
+Dietz T, Whitley CT. 2018a. Inequality, decisions, and altruism. Sociol. Dev. 4(3):282–303
+Dietz T, Whitley CT. 2018b. Environmentalism, norms, and identity. PNAS 115(49):12334–36
+Downey L. 2015. Inequality, Democracy, and the Environment. New York: NYU Press
+Druckman JN, McGrath MC. 2019. The evidence for motivated reasoning in climate change preference formation. Nat. Clim. Change 9(2):111–19
+Dwyer J, Bidwell D. 2019. Chains of trust: energy justice, public engagement, and the first offshore windfarm
+in the United States. Energy Res Soc. Sci. 47:166–176
+Egan PJ, Mullin M. 2017. Climate change: US public opinion. Annu. Rev. Political Sci. 20:209–27
+Environmental Action. 1970. Earth Day—The Beginning. New York: Bantam
+Farrell J. 2016. Corporate funding and ideological polarization about climate change. PNAS 113(1):92–97
+
+www.annualreviews.org • Climate Change and Society
+
+Dietz et al. (2003).
+Presents an overview of
+research on commons
+governance, including
+climate and global
+change.
+
+Egan & Mullin (2017).
+Presents a thorough
+review of public opinion
+on climate change.
+
+151
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+Feldman L, Hart PS. 2018. Is there any hope? How climate change news imagery and text influence audience
+emotions and support for climate mitigation policies. Risk Anal. 38(3):585–602
+Firestone J, Hirt C, Bidwell D, Gardner M, Dwyer J. 2020. Faring well in offshore wind power siting? Trust,
+engagement and process fairness in the United States. Energy Res. Soc. Sci. 62:101393
+Fisher DR. 2004. National Governance and the Global Climate Change Regime. Lanham, MD: Rowman &
+Littlefield
+Fisher DR, Jorgenson AK. 2019. Ending the stalemate: toward a theory of anthro-shift. Sociol. Theory
+37(4):342–62
+Fisher DR, Leifeld P. 2019. The polycentricity of climate policy blockage. Clim. Change 155(4):469–87
+Fisher DR, Robertson A. 2015. Civil society engagement in climate governance: between collaboration
+and conflict. In Research Handbook on Climate Governance, ed. K Bäckstrand, A Lövbrand, pp. 297–308.
+Northampton, MA: Elgar
+Fitzgerald AJ. 2018. Animal Advocacy and Environmentalism: Understanding and Bridging the Divide. Medford,
+MA: Wiley
+Fitzgerald JB, Schor JB, Jorgenson AK. 2018. Working hours and carbon dioxide emissions in the United
+States, 2007–2013. Soc. Forces 96(4):1851–74
+Frank KA. 2011. Social network models for natural resource use and extraction. In Social Networks and Natural Resource Management: Uncovering the Social Fabric of Environmental Governance, ed. Ö Bodin, C Prell,
+pp. 180–205. Cambridge, UK: Cambridge Univ. Press
+Freudenburg WR, Rosa EA, eds. 1984. Public Reaction to Nuclear Power: Are There Critical Masses? Boulder, CO:
+Westview/Am. Assoc. Adv. Sci.
+Friis C, Nielsen JØ, eds. 2019. Telecoupling: Exploring Land-Use Change in a Globalised World. Cham, Switz.:
+Palgrave Macmillan
+Galli Robertson AM, Collins MB. 2019. Super emitters in the United States coal-fired electric utility industry:
+comparing disproportionate emissions across facilities and parent companies. Environ. Sociol. 5(1):70–81
+Gaskin CJ, Taylor D, Kinnear S, Mann J, Hillman W, Moran M. 2017. Factors associated with the climate
+change vulnerability and the adaptive capacity of people with disability: a systematic review. Weather
+Clim. Soc. 9(4):801–14
+Gautam MR, Chief K, Smith WJ Jr. 2013. Climate change in arid lands and Native American socioeconomic
+vulnerability: the case of the Pyramid Lake Paiute Tribe. In Climate Change and Indigenous Peoples in the
+United States, ed. JK Maldonodo, B Colombi, R Pandya, pp. 77–91. Heidelberg, Ger.: Springer
+Geels FW. 2004. From sectoral systems of innovation to socio-technical systems: insights about dynamics and
+change from sociology and institutional theory. Res. Policy 33(6/7):897–920
+Gilligan JM, Vandenbergh MP. 2020. Private climate governance. Energy Res. Soc. Sci. 60:101400
+Glazebrook T, Opoku E. 2018. Defending the defenders: environmental protectors, climate change and human rights. Ethics Environ. 23(2):83–109
+Goldberg MH, van der Linden S, Leiserowitz A, Maibach E. 2019. Perceived social consensus can reduce
+ideological biases on climate change. Environ. Behav. 23. https://doi.org/10.31219/osf.io/vg74q
+Görgens T, Ziervogel G. 2019. From “no one left behind” to putting the last first: centering the voices of
+disabled people in resilience work. In The Palgrave Handbook of Disability and Citizenship in the Global
+South, ed. B Watermeyer, J Mackenzie, L Swartz, pp. 85–102. Cham, Switz.: Palgrave Macmillan
+Grant D, Jorgenson AK, Longhofer W. 2020. Super Polluters: Tackling the World’s Largest Sites of ClimateDisrupting Emissions. New York: Columbia Univ. Press
+Greenberg J, Knight G, Westersund E. 2011. Spinning climate change: corporate and NGO public relations
+strategies in Canada and the United States. Int. Commun. Gaz. 73(1/2):65–82
+Greenebaum J, Dexter B. 2018. Vegan men and hybrid masculinity. J. Gend. Stud. 27(6):637–48
+Gromet DM, Kunreuther H, Larrick RP. 2013. Political ideology affects energy-efficiency attitudes and
+choices. PNAS 110(23):9314–19
+Gunderson R. 2014. Habermas in environmental thought: anthropocentric Kantian or forefather of ecological
+democracy? Sociol. Inq. 84(4):626–53
+Gunderson R. 2018. Global environmental governance should be participatory: five problems of scale. Int.
+Sociol. 33(6):715–37
+
+152
+
+Dietz • Shwom • Whitley
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+Haluza-Delay R. 2012. Giving consent in the petrostate: hegemony and Alberta oil sands. J. Act. Sci. Technol.
+Educ. 4(1):1–6
+Hamilton LC. 2016. Public awareness of the scientific consensus on climate. SAGE Open 6(4):1–11
+Harlan SL, Pellow DN, Roberts JT, Bell SE, Holt WG, Nagel J. 2015. Climate justice and inequality. In
+Climate Change and Society: Sociological Perspectives, ed. R Dunlap, RJ Brulle, pp. 127–63. New York: Oxford
+Univ. Press
+Harrison J. 2015. Sustainable Development Goal 8. Presentation for course in Critical Priorities in Disability
+and Development (CPDD), Programme in Disability, Climate Change, and Sustainability, Univ. Cape
+Town, S. Afr. https://tinyurl.com/whvtjb3
+Henry AD, Vollan B. 2014. Networks and the challenge of sustainable development. Annu. Rev. Environ. Resour.
+39:583–610
+Hess DJ. 2019. Cooler coalitions for a warmer planet: a review of political strategies for accelerating energy
+transitions. Energy Res. Soc. Sci. 57:101246
+Hornsey MJ, Harris EA, Fielding KS. 2018. Relationships among conspiratorial beliefs, conservatism and
+climate skepticism across nations. Nat. Clim. Change 8(7):614–20
+Hunter LM, Luna JK, Norton RM. 2015. Environmental dimensions of migration. Annu. Rev. Sociol. 41:377–
+97
+IPBES (Intergov. Sci. Policy Platf. Biodivers. Ecosyst. Serv.). 2019. Global Assessment of Biodiversity and Ecosystem
+Services of the Intergovernmental Science–Policy Platform on Biodiversity and Ecosystem Services. Bonn, Ger.:
+IPBES Secr.
+IPCC (Intergov. Panel Clim. Change). 2018. Global Warming of 1.5°C. Geneva: IPCC
+Irvine L. 2009. Filling the Ark. Philadelphia: Temple Univ. Press
+Jantarasami L, Novak R, Delgado R, Marino E, McNeeley S, et al. 2018. Tribes and indigenous peoples. In
+Impacts, Risks, and Adaptation in the United States: 4th National Climate Assessment, Vol. 2, ed. DR Reidmiller,
+CW Avery, DR Easterling, KE Kunkel, KLM Lewis, et al., pp. 572–603. Washington, DC: US Glob.
+Change Res. Program
+Jay A, Reidmiller DR, Avery CW, Barrie D, DeAngelo B, et al. 2018. Overview. In Impacts, Risks, and Adaptation
+in the United States: 4th National Climate Assessment, Vol. 2, ed. DR Reidmiller, CW Avery, DR Easterling,
+KE Kunkel, KLM Lewis, et al., pp. 33–71. Washington, DC: US Glob. Change Res. Program
+Jenkins K, McCauley D, Heffron R, Stephan H, Rehner R. 2016. Energy justice: a conceptual review. Energy
+Res. Soc. Sci. 11:174–182
+Jordan A, Huitema D. 2014. Innovations in climate policy: the politics of invention, diffusion, and evaluation.
+Environ. Politics 23(5):715–34
+Jorgenson AK. 2014. Economic development and the carbon intensity of human well-being. Nat. Clim. Change
+4:186–89
+Jorgenson AK, Clark B. 2012. Are the economy and the environment decoupling? A comparative international
+study, 1960–2005. Am. J. Sociol. 118(1):1–44
+Jorgenson AK, Fiske S, Hubacek K, Li J, McGovern T, et al. 2019. Social science perspectives on
+drivers of and responses to global climate change. Wiley Interdiscip. Rev. Clim. Change 10(1):e554
+Kalof L, ed. 2017. The Oxford Handbook of Animal Studies. New York: Oxford Univ. Press
+Kennedy EH, Cohen MJ, Krogman N. 2015. Putting Sustainability into Practice: Applications and Advances in
+Research on Sustainable Consumption. Northampton, MA: Elgar
+Klinenberg EM, Araos M, Koslov L. 2020. Sociology and the climate emergency. Annu. Rev. Sociol. 46:557–77
+Koch A, Brierley C, Maslin MM, Lewis SL. 2019. Earth system impacts of the European arrival and great
+dying in the Americas after 1492. Quat. Sci. Rev. 207:13–36
+Le Roux M. 2015. Agenda for sustainable development: Can it benefit the disabled community? Presentation for
+course in Critical Priorities in Disability and Development (CPDD), Programme in Disability, Climate
+Change, and Sustainability, Univ. Cape Town, S. Afr. https://tinyurl.com/whvtjb3
+Le Roy Ladurie E. 1971. Times of Feast, Times of Famine. New York: Farrar, Straus & Giroux
+LeQuesne T. 2019. Petro-hegemony and the matrix of resistance: What can Standing Rock’s Water Protectors teach us about organizing for climate justice in the United States? Environ. Sociol. 5(2):188–
+206
+www.annualreviews.org • Climate Change and Society
+
+Jorgenson et al. (2019).
+Presents a
+comprehensive,
+interdisciplinary review
+of the social science of
+climate change.
+
+153
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+Levy DL, Kolk A. 2002. Strategic responses to global climate change: conflicting pressures on multinationals
+in the oil industry. Bus. Politics 4(3):275–300
+Levy DL, Rothenberg S. 2002. Heterogeneity and change in environmental strategy: technological and political responses to climate change in the global automobile industry. In Organizations, Policy and the Natural
+Environment: Institutional and Strategic Perspectives, ed. A Hoffman, M Ventresca, pp. 173–93. Redwood
+City, CA: Stanford Univ. Press
+Lidskog R, Waterton C. 2016. Anthropocene—a cautious welcome from environmental sociology? Environ.
+Sociol. 2(4):395–406
+Liu J, Dou Y, Batistella M, Challies E, Connor T, et al. 2018. Spillover systems in a telecoupled Anthropocene: typology, methods, and governance for global sustainability. Curr. Opin. Environ. Sustain. 33:58–
+69
+Maldonado JK, Shearer C, Bronen R, Peterson K, Lazrus H. 2013. The impact of climate change on tribal
+communities in the US: displacement, relocation, and human rights. In Climate Change and Indigenous
+Peoples in the United States, ed. JK Maldonado, B Colombi, R Randya, pp. 93–106. Heidelberg, Ger.:
+Springer
+Marquart-Pyatt ST, McCright AM, Dietz T, Dunlap RE. 2014. Politics eclipses climate extremes for climate
+change perceptions. Glob. Environ. Change 29:246–57
+Mazur A. 2016. How did the fracking controversy emerge in the period 2010–2012? Public Underst. Sci.
+25(2):207–22
+Mazur A, Rosa E. 1974. Energy and life-style. Science 186(4164):607–10
+McAdam D. 2017. Social movement theory and the prospects for climate change activism in the United States.
+Annu. Rev. Political Sci. 20:189–208
+McAdam D, Boudet HS. 2012. Putting Social Movements in Their Place: Explaining Opposition to Energy Projects
+in the United States, 2000–2005. New York: Cambridge Univ. Press
+McCright AM, Dunlap RE. 2000. Challenging global warming as a social problem: an analysis of the conservative movement’s counter-claims. Soc. Probl. 47(4):499–522
+McCright AM, Dunlap RE. 2003. Defeating Kyoto: the conservative movement’s impact on US climate change
+policy. Soc. Probl. 50(3):348–73
+McCright AM, Dunlap RE. 2010. Anti-reflexivity. Theory Cult. Soc. 27(2/3):100–33
+McCright AM, Marquart-Pyatt ST, Shwom RL, Brechin SR, Allen S. 2016. Ideology, capitalism, and climate:
+explaining public views about climate change in the United States. Energy Res. Soc. Sci. 21:180–89
+McCright AM, Xiao C. 2014. Gender and environmental concern: insights from recent work and for future
+research. Soc. Nat. Resour. 27(10):1109–13
+McLaughlin P. 2011. Climate change, adaptation, and vulnerability: reconceptualizing societal-environment
+interaction within a socially constructed adaptive landscape. Organ. Environ. 24(3):269–91
+Menchik DA. 2017. Tethered venues: discerning distant influences on a field site. Sociol. Methods Res. 48(4):850–
+76
+Mendez M. 2020. Climate Change from the Streets: How Conflict and Collaboration Strengthen the Environmental
+Justice Movement. New Haven, CT: Yale Univ. Press
+Mol AP, Spaargaren G, Sonnenfeld DA. 2013. Ecological modernization theory: taking stock, moving forward.
+In Routledge International Handbook of Social and Environmental Change, ed. S Lockie, DA Sonnenfeld, DR
+Fisher, pp. 31–46. New York: Routledge
+Morris ZA, Hayward RA, Otero Y. 2018. The political determinants of disaster risk: assessing the unfolding aftermath of Hurricane Maria for people with disabilities in Puerto Rico. Environ. Justice 11(2):89–
+94
+Mortimer-Sandilands C, Erickson B, eds. 2010. Queer Ecologies: Sex, Nature, Politics, Desire. Bloomington:
+Indiana Univ. Press
+Moss RH, Schneider SH. 2000. Uncertainties in the IPCC TAR: recommendations to lead authors for more
+consistent assessment and reporting. In Guidance Papers on the Cross-Cutting Issues of the Third Assessment
+Report of the IPCC, ed. R Pachauri, T Taniguchi, K Tanaka, pp. 33–51. Geneva: World Meteorol. Organ.
+Nicolosi E, Corbett JB. 2018. Engagement with climate change and the environment: a review of the role of
+relationships to place. Local Environ. 23(1):77–99
+
+154
+
+Dietz • Shwom • Whitley
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+Nisbet MC. 2018. Strategic philanthropy in the post-cap-and-trade years: reviewing US climate and energy
+foundation funding. Wiley Interdiscip. Rev. Clim. Change 9(4):1–17
+Norgaard KM. 2011. Living in Denial: Climate Change, Emotions, and Everyday Life. Cambridge, MA: MIT
+Press
+Norgaard KM. 2012. Climate denial and the construction of innocence: reproducing transnational environmental privilege in the face of climate change. Race Gend. Class 19(1/2):80–103
+Norgaard KM. 2019. Salmon and Acorns Feed Our People: Colonialism, Nature, and Social Action. New Brunswick,
+NJ: Rutgers Univ. Press
+Norton-Smith K, Lynn K, Chief K, Cozzetto K, Donatuto J, et al. 2016. Climate change and indigenous peoples:
+a synthesis of current impacts and experiences. Gen. Tech. Rep. PNW-GTR-944, US Dep. Agric., For. Serv.,
+Pac. Northwest Res. Stn., Portland, OR
+Ojala M. 2016. Young people and global climate change: emotions, coping, and engagement in everyday life. In
+Geographies of Global Issues: Change and Threat. ed. AN Klocker, T Skelton, pp. 1–19. Singapore: Springer
+Ostrom E. 2010. Polycentric systems for coping with collective action and global environmental
+change. Glob. Environ. Change 20(4):550–57
+Parker G. 2013. Global Crisis: War, Climate Change and Catastrophe in the Seventeenth Century. New Haven, CT:
+Yale Univ. Press
+Payne CR, Shwom R, Heaton S. 2015. Public participation and norm formation for risky technology: adaptive
+governance of solar-radiation management. Clim. Law 5(2–4):210–51
+Peggs K. 2012. Animals and Sociology. New York: Palgrave
+Pellow DN. 2016. Toward a critical environmental justice studies: Black Lives Matter as an environmental
+justice challenge. Du Bois Rev. 13(2):221–36
+Pellow DN, Brehm H. 2013. An environmental sociology for the twenty-first century. Annu. Rev. Sociol.
+39:229–50
+Poortinga W, Whitmarsh L, Steg L, Böhm G, Fisher S. 2019. Climate change perceptions and their individuallevel determinants: a cross-European analysis. Glob. Environ. Change 55:25–35
+Pulver S. 2007. Making sense of corporate environmentalism: an environmental contestation approach to analyzing the causes and consequences of the climate change policy split in the oil industry. Organ. Environ.
+20(1):44–83
+Pulver S. 2011. Corporate responses. In The Oxford Handbook of Climate Change and Society, ed. JS Dryzek,
+RB Norgaard, D Schlosberg, pp. 581–93. New York: Oxford Univ. Press
+Ray SJ, Sibara J, eds. 2017. Disability Studies and the Environmental Humanities: Toward an Eco-Crip Theory.
+Omaha: Univ. Neb. Press
+Rosa EA, Dietz T. 1998. Climate change and society: speculation, construction and scientific investigation.
+Int. Sociol. 13(4):421–55
+Rosa EA, Machlis GE, Keating KM. 1988. Energy and society. Annu. Rev. Sociol. 14:149–72
+Roth M. 2018. A resilient community is one that includes and protects everyone. Bull. At. Sci. 74(2):91–94
+Rudel TK, Roberts JT, Carmin J. 2011. Political economy of the environment. Annu. Rev. Sociol. 37:221–
+38
+Sbicca J. 2012. Eco-queer movement(s). Eur. J. Ecopsychol. 3:33–52
+Schifeling T, Hoffman AJ. 2017. Bill McKibben’s influence on US climate change discourse: shifting field-level
+debates through radical flank effects. Organ. Environ. 32(3):213–33
+Schlosberg D, Collins LB. 2014. From environmental to climate justice: climate change and the discourse of
+environmental justice. Wiley Interdiscip. Rev. Clim. Change 5(3):359–74
+Schor JB. 2007. In defense of consumer critique: revisiting the consumption debates of the twentieth century.
+Ann. Am. Acad. Political Soc. Sci. 611(1):16–30
+Schor JB. 2008. The Overworked American: The Unexpected Decline of Leisure. New York: Basic
+Schofer E, Hironaka A. 2005. The effects of world society on environmental protection outcomes. Soc. Forces
+84(1):25–47
+Schroeter R, Scheel O, Renn O, Schweizer PJ. 2016. Testing the value of public participation in Germany:
+theory, operationalization and a case study on the evaluation of participation. Energy Res. Soc. Sci. 13:116–
+25
+
+www.annualreviews.org • Climate Change and Society
+
+Ostrom (2010).
+Represents a major
+statement by a key
+theorist.
+
+Pellow & Brehm (2013).
+Comprehensively
+reviews environmental
+sociology with a focus
+on justice.
+
+155
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+Steg (2016). Presents a
+thorough review of
+microlevel theory and
+empirical results.
+
+Stern & Wolske (2017).
+Identifies the most
+important actions for
+limiting climate change.
+
+156
+
+Schweizer PJ, Renn O, Kock W, Bovet J, Benighaus C, et al. 2016. Public participation for infrastructure
+planning in the context of the German “Energiewende”. Util. Policy 43:B206–9
+Sellers S, Ebi KL, Hess J. 2019. Climate change, human health, and social stability: addressing interlinkages.
+Environ. Health Perspect. 127(4):1–10
+Seymour N. 2013. Strange Natures: Futurity, Empathy, and the Queer Ecological Imagination. Urbana/Champaign:
+Univ. Ill. Press
+Shove E. 2007. The Design of Everyday Life. New York: Berg
+Shwom RL. 2011. A middle range theorization of energy politics: the struggle for energy efficient appliances.
+Environ. Politics 20(5):705–26
+Shwom RL, McCright AM, Brechin SR, Dunlap RE, Marquart-Pyatt ST, Hamilton LC. 2015. Public opinion
+on climate change. In Climate Change and Society: Sociological Perspectives, ed. R Dunlap, RJ Brulle, pp. 269–
+99. Oxford: Oxford Univ. Press
+Sikina J, Nicholson S. 2019. Introduction to the Symposium on Geoengineering: Governing Solar Radiation
+Management. Environ. Politics 28(3):385–96
+Sine WD, Lee BH. 2009. Tilting at windmills? The environmental movement and the emergence of the US
+wind energy sector. Adm. Sci. Q. 54(1):123–55
+Smith EK, Mayer A. 2018. A social trap for the climate? Collective action, trust and climate change risk
+perception in 35 countries. Glob. Environ. Change 49:140–53
+Spires AJ. 2011. Organizational homophily in international grantmaking: US-based foundations and their
+grantees in China. J. Civil Soc. 7(3):305–31
+Steffen W, Rockström J, Richardson K, Lenton TM, Folke C, et al. 2018. Trajectories of the earth system in
+the Anthropocene. PNAS 115(33):8252–59
+Steg L. 2016. Values, norms, and intrinsic motivation to act proenvironmentally. Annu. Rev. Environ.
+Resour. 41:277–92
+Stern PC, Dietz T. 2020. A broader social science research agenda on sustainability: Nongovernmental influences on climate footprints. Energy Res. Soc. Sci. 60:10141
+Stern PC, Dietz T, Abel T, Guagnano GA, Kalof L. 1999. A value-belief-norm theory of support for social
+movements: the case of environmentalism. Hum. Ecol. Rev. 6(2):81–97
+Stern PC, Wolske KS. 2017. Limiting climate change: What’s most worth doing? Environ. Res. Lett.
+12(9):1–2
+Thomas K, Hardy RD, Lazrus H, Mendez M, Orlove B, et al. 2019. Explaining differential vulnerability to
+climate change: a social science review. Wiley Interdiscip. Rev. Clim. Change 10(2):1–18
+Thombs R. 2018. The transnational tilt of the treadmill and the role of trade openness on carbon emissions:
+a comparative international study, 1965–2010. Sociol. Forum 33(2):422–42
+Tierney K. 2019. Disasters: A Sociological Approach. New York: Wiley
+Truelove HB, Carrico AR, Weber EU, Raimi KT, Vandenbergh MP. 2014. Positive and negative spillover
+of pro-environmental behavior: an integrative review and theoretical framework. Glob. Environ. Change
+29:127–38
+US Glob. Change Res. Program. 2017. Climate Science Special Report: 4th National Climate Assessment, Vol. 1.
+Washington, DC: US Glob. Change Res. Program
+US Natl. Res. Counc. 1992. Global Environmental Change: Understanding the Human Dimensions. Washington,
+DC: Natl. Acad.
+US Natl. Res. Counc. 2015. Climate Intervention: Reflecting Sunlight to Cool Earth. Washington, DC: Natl. Acad.
+US Natl. Res. Counc. 2016. Attribution of Extreme Weather Events in the Context of Climate Change. Washington,
+DC: Natl. Acad.
+Vachon TE, Brecher J. 2016. Are union members more or less likely to be environmentalists? Some evidence
+from two national surveys. Labor Stud. J. 41(2):185–203
+Van der Linden S. 2015. The social-psychological determinants of climate change risk perceptions: towards a
+comprehensive model. J. Environ. Psychol. 41:112–24
+van der Werff E, Steg L. 2016. The psychology of participation and interest in smart energy systems: comparing the value-belief-norm theory and the value-identity-personal norm model. Energy Res. Soc. Sci.
+22:107–14
+
+Dietz • Shwom • Whitley
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+Van Praag L, Timmerman C. 2019. Environmental migration and displacement: a new theoretical framework
+for the study of migration aspirations in response to environmental changes. Environ. Sociol. 5(4):1–10
+Vandenbergh MP, Gilligan JM. 2017. Beyond Politics: The Private Governance Response to Climate
+Change. Cambridge, UK: Cambridge Univ. Press
+Vickery J, Hunter LM. 2016. Native Americans: where in environmental justice research? Soc. Nat. Resour.
+29(1):36–52
+Weiss EB. 1989. In Fairness to Future Generations: International Law, Common Patrimony, and Intergenerational
+Equity. Ardsley, NY: Transnational
+Weart SR. 2008. The Discovery of Global Warming. Boston, MA: Harvard Univ. Press. Revis. ed.
+White S, Pfister C, Mauelshagen F, eds. 2018. The Palgrave Handbook of Climate History. New York: Palgrave
+Whitley CT, Gunderson R, Charters M. 2018a. Public receptiveness to policies promoting plant-based diets:
+framing effects and social psychological and structural influences. J. Environ. Policy Plan. 20(1):45–63
+Whitley CT, Kalof L. 2014. Animal imagery in the discourse of climate change. Int. J. Sociol. 44(1):10–33
+Whitley CT, Rivers L III, Mattes S, Marquart-Pyatt ST, Ligmann-Zielinska A, et al. 2018b. Climateinduced migration: using mental models to explore aggregate and individual decision-making. J. Risk
+Res. 21(8):1019–35
+Whitworth L. 2019. Goodbye Gauley Mountain, hello eco-camp: queer environmentalism in the Anthropocene. Fem. Theory 20(1):73–92
+Winders W, Ransom EP, eds. 2019. Global Meat: The Social and Environmental Consequences of the Expanding
+Meat Industry. Cambridge, MA: MIT Press
+Wolske K, Stern PC. 2018. Contributions of psychology to limiting climate change: opportunities through
+consumer behavior. In Psychology and Climate Change: Human Perceptions, Impacts, and Responses, ed.
+S Clayton, C Manning, pp. 127–60. San Diego: Elsevier
+Woods M. 2003. Conflicting environmental visions of the rural: windfarm development in Mid Wales. Sociol.
+Rural. 43(3):271–88
+Wright C, Nyberg D. 2017. An inconvenient truth: how organizations translate climate change into business
+as usual. Acad. Manag. J. 60(5):1633–61
+Ylä-Anttila T, Gronow A, Stoddart MC, Broadbent J, Schneider V, Tindall DB. 2018. Climate change policy
+networks: why and how to compare them across countries. Energy Res. Soc. Sci. 45:258–65
+York JG, Hargrave TJ, Pacheco DF. 2016. Converging winds: logic hybridization in the Colorado wind energy
+field. Acad. Manag. J. 59(2):579–610
+York R. 2012. Do alternative energy sources displace fossil fuels? Nat. Clim. Change 2(6):441–43
+York R. 2017. Environmental consequences of moral disinhibition. Socius 3. https://doi.org/10.1177/
+2378023117719612
+York R, Bell SE. 2019. Energy transitions or additions? Why a transition from fossil fuels requires more than
+the growth of renewable energy. Energy Res. Soc. Sci. 51:40–43
+York R, Longo SB. 2017. Animals in the world: a materialist approach to sociological animal studies. J. Sociol.
+53(1):32–46
+York R, McGee JA. 2017. Does renewable energy development decouple economic growth from CO2 emissions? Socius 3. https://doi.org/10.1177/2378023116689098
+York R, Rosa EA, Dietz T. 2003. Footprints on the earth: the environmental consequences of modernity. Am.
+Sociol. Rev. 68(2):279–300
+Zanocco C, Boudet HS, Nilson R, Satein H, Whitley H, Flora J. 2018. Place, proximity, and perceived harm:
+extreme weather events and views about climate change. Clim. Change 149(3/4):349–65
+Zinn JO. 2016. Living in the Anthropocene: towards a risk-taking society. Environ. Sociol. 2(4):385–94
+
+Vandenbergh & Gilligan
+(2017). Presents a
+comprehensive review
+of action by individuals,
+corporations, and other
+organizations outside of
+government.
+
+RELATED RESOURCES
+Climate.gov (www.climate.gov). The website of the US Global Change Research Program provides access to
+the US National Climate Assessments and other federal reports. It includes a Global Change Dashboard
+displaying data, an extensive set of maps and data, and many resources for teaching climate change.
+www.annualreviews.org • Climate Change and Society
+
+157
+
+Downloaded from www.annualreviews.org. Guest (guest) IP: 113.199.192.139 On: Sun, 20 Sept 2026 01:01:51
+
+Includes links to an interactive website and source that tracks the “vital signs” of the planet, giving updated
+information on CO2 , sea levels, global temperature, ice sheet volume, and so forth, as well as to NASA
+Earth-orbiting satellites (see https://climate.nasa.gov/).
+Climate at the National Academies (http://sites.nationalacademies.org/sites/climate/index.htm). The US
+National Academies of Science have been providing science advice to the United States since the Civil
+War. The site summarizes the Academies’ findings, links to dozens of authoritative reports on climate
+change, and includes extensive explanations of the science of climate change under the “Discover” tab.
+Climate Nexus (climatenexus.org). Climate Nexus is a nonprofit whose website offers news about climate
+science and climate policy.
+Climate Science (https://www.sciencemag.org/category/climate). Science magazine is a highly respected
+source of news reports on science and society. This site offers the latest news stories from the magazine.
+Indigenous Environmental Network Climate Justice (https://www.ienearth.org/category/climatejustice/). The Indigenous Environmental Network is an alliance working for environmental protection
+drawing on indigenous perspectives. Its climate page provides news reports on indigenous people’s
+actions and analyses.
+Intergovernmental Panel on Climate Change (https://www.ipcc.ch). The Intergovernmental Panel on Climate Change produces the definitive international reports on climate change science. The website provides those reports including summary materials and a description of ongoing research.
+TED Talks on Climate Change (https://www.ted.com/topics/climate+change); TED talks on Environmental Justice (https://www.ted.com/search?q=environmental+justice). TED talks are short, carefully crafted presentations by experts. There is no curated list of talks on climate justice, but there are a
+number of talks addressing this theme.
+United Nations Framework Convention on Climate Change Youth for Climate Action (https://unfccc.int/
+topics/education-and-outreach/workstreams/youth-engagement). Resources, news, and opportunities directed at youth around the world interested in addressing climate change.
+World Resources Institute (https://www.wri.org/). World Resources Institute is a research organization
+working at the interface between science and policy on key sustainability issues including climate. The
+website offers access to reports, blogs, and news stories.
+
+158
+
+Dietz • Shwom • Whitley
+
+
