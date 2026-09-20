@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 August 2016
 EPA 430-F-16-062
 
@@ -170,3 +171,7 @@ importance of aspects that are not mentioned. For more information about climate
 at www.epa.gov/climatechange.
 
 
+=======
+Tokenization splits raw text into individual words or tokens, which is usually
+the first step before building a dictionary for an information retrieval system.
+>>>>>>> def75831f3ac3e4420b77fd88eba405cf4d23114

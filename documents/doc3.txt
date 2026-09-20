@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 review
 
 Allergo J Int (2022) 31:114–120
@@ -643,3 +644,7 @@ report.pdf?ua=1v. Accessed 22 Jan 2022.
 K
 
 
+=======
+Boolean retrieval models allow users to combine query terms using the operators
+AND, OR, and NOT to precisely control which documents are returned.
+>>>>>>> def75831f3ac3e4420b77fd88eba405cf4d23114

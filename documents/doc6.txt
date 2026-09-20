@@ -1,0 +1,2 @@
+Stop words such as the, is, and at are often removed during preprocessing
+because they carry little meaning and appear in almost every document.

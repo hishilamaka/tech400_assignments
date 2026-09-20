@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Global Change Biology
 Global Change Biology (2014) 20, 3313–3328, doi: 10.1111/gcb.12581
 
@@ -1747,3 +1748,7 @@ paper series.
 3328 P . K . T H O R N T O N et al.
 
 
+=======
+Information retrieval is the process of finding material of an unstructured nature
+that satisfies an information need from within large collections.
+>>>>>>> def75831f3ac3e4420b77fd88eba405cf4d23114
