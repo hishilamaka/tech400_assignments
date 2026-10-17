@@ -1,0 +1,4 @@
+nltk>=3.8
+matplotlib>=3.7
+# Optional (only for verify_with_trec_eval.py):
+# pytrec_eval-terrier
